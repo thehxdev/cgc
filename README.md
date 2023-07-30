@@ -4,7 +4,8 @@ A simple and tiny garbage collector in C for C :)
 
 I wrote it in probably 1 or 1.5 hours so it's not a big deal and not ment to be used
 in other projects. It's only a hubby side project to practice how to implement a simple
-GC in C programming language with my own understanding of memory and data structures.
+GC in C programming language with my own understanding of memory and data structures without
+reading any paper or documentation about automatic memory management or garbage collectors.
 
 ## How it works
 
