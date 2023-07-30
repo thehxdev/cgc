@@ -14,3 +14,9 @@ memory chunkes in a doubly-linked-list to keep track of them.
 then at the end of `main` function user must call `gc_freeAll` function to
 free all of the allocated memory on the Heap.
 
+
+## Problems
+
+- It only triggers GC at the end of `main` function
+- Bad code design with so much duplicated code (maybe solvable with macros)
+
